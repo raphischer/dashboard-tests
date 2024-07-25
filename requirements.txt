@@ -1,0 +1,5 @@
+pandas
+scipy
+dash
+plotly
+dash-bootstrap-components
